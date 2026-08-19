@@ -1,0 +1,28 @@
+# Python 
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual enviroments
+venv/
+.venv/
+env/
+
+# VS Code local settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Python environment variables / secrets
+.env
+
+# Raw database - exceeds GitHub's 100 MB file limit
+data/olist.sqlite
